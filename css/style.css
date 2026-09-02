@@ -3,11 +3,9 @@
 }
 header {
   background-color: #e5e5e5;
-
   text-align: center;
   background-image: url("../img/Fondo.png");
   background-repeat: repeat-x;
-
   background-size: contain;
 }
 
